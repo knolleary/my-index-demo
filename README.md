@@ -1,7 +1,7 @@
 my-index-project
 ================
 
-A live demo from Index
+A live demo from Index - with an edit
 
 ### About
 
